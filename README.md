@@ -11,7 +11,7 @@
 
 ### Bài tập tuần 10 - 24/10/2024
 
-- [Bài tập F01: Cài đặt môi trường lập trình Flutter](https://github.com/nguyenkhanhquy/flutter)
+- [Bài tập F01: Cài đặt môi trường lập trình Flutter](https://github.com/nguyenkhanhquy/flutter/tree/main/21110282_NguyenKhanhQuy)
 
 Yêu cầu:
 
