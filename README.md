@@ -17,8 +17,7 @@
 Yêu cầu:
 
 1. Sinh viên xem hướng dẫn cài đặt môi trường trên trang chủ của Flutter (<https://docs.flutter.dev/>) tiến hành cài đặt môi trường làm việc.
-
-1. Viết 02 trang của  app manager: trang giới thiệu thành viên nhóm trong 10s sau đó tự chuyển sang trang Login của role manager.
+1. Viết 02 trang của App Manager: trang giới thiệu thành viên nhóm trong 10s sau đó tự chuyển sang trang Login của role Manager.
 
 ### Bài tập tuần 11 - 31/10/2024
 
